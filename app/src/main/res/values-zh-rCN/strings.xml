@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MM</string>
+    <string name="hint">摄氏温度</string>
+    <string name="btn">转换</string>
+    <string name="text">华氏温度</string>
+</resources>
